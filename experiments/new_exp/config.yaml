@@ -1,0 +1,13 @@
+ 
+
+name: simple-bash-script
+desc: Find text pattern in input file with grep
+cmd: ./experiments/new_exp/run.sh
+inputs:
+  - ./experiments/new_exp/solver/input_text.txt
+  - ./experiments/new_exp/solver/metadata.txt
+  - ./experiments/new_exp/solver/run.sh
+  - ./experiments/new_exp/run.sh
+  - ./experiments/new_exp/solver/outputs/output_wtf.txt
+outputs:
+  - ./experiments/new_exp/solver/outputs/outputs.zip
