@@ -1,5 +1,3 @@
-some line
-line with duck
-another line
-second duck line
-that's all
+duck 
+swan
+new duck
